@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "Still Version2016",
+  "base_artist": "Flower",
+  "createdAt": "2026-03-17T15:49:04.872081Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Still (version2016)",
+      "artist": "Flower",
+      "has_synced": false,
+      "path": "select/pl_01_Still_(version2016)_Flower.txt"
+    }
+  ]
+}
